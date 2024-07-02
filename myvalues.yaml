@@ -1,0 +1,9 @@
+syncPolicy:
+  prune: true
+  selfHeal: true
+mycmp:
+  imageTag:
+  opsRepoTag:
+cert-issuer:
+  imageTag:
+  opsRepoTag:
