@@ -4,6 +4,6 @@ syncPolicy:
 mycmp:
   imageTag:
   opsRepoTag:
-cert-issuer:
+cert:
   imageTag:
   opsRepoTag:
